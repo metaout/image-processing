@@ -1,0 +1,24 @@
+# Pyenv
+.python-version
+
+# Ignore temporary files
+[._]*.sw[a-p]
+[._]sw[a-p]
+*~
+.pytest_cache/
+.cache
+tags
+
+# Ignore IDE-related stuffs
+build.xml
+nbproject/
+manifest.mf
+build/
+grader/lib/
+.idea/
+
+# Ignore mac shit
+.DS_Store
+
+# Ignore VS code json
+.vscode/*
