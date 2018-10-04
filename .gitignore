@@ -22,3 +22,6 @@ grader/lib/
 
 # Ignore VS code json
 .vscode/*
+
+# Ignore builddata
+testdata/build.xyz
